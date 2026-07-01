@@ -70,7 +70,7 @@ Two actions, two layers, one engine.
 **Claude Code:** clone this repo into your skills directory.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/creative-brief.git ~/.claude/skills/creative-brief
+git clone https://github.com/efesorjm/creative-brief.git ~/.claude/skills/creative-brief
 ```
 
 **Claude apps:** download `creative-brief.skill` from the latest [release](../../releases) and add it from the skills menu.
