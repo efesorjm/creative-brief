@@ -111,7 +111,7 @@ Random creativity is expensive luck. A great idea with no system behind it is a 
 
 It comes out of fifteen years leading brand and creative teams, and a simple belief: the work that survives the age of infinite AI output is the judgment about what is worth making. The model does the volume. A human holds the gate. This is the gate, written down.
 
-More on the thinking behind it: [portfolio-link]
+More on the thinking behind it: [josemsanchez.com]
 
 ---
 
