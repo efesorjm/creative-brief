@@ -57,6 +57,21 @@ Do not start by picking a template. Start from the situation and engineer the dr
 6. **Make it feel something.** Read it back and name the emotion it triggers in the first second. If there is none, it is wallpaper. Rewrite.
 7. **Write the seed.** The line right after the hook that promises why staying is worth it. Hook and seed ship together.
 
+## Read or spoken: match the register
+
+Everything above is built for scroll-stopping short-form, where a viewer decides in about a second whether to keep watching a feed. That is one register, and forcing its grammar onto a format where a real person is talking produces copy that sounds like an ad, not a person. Before writing a word, decide which register you are in.
+
+**Read / scroll** — captions, static posts, paid social, a print headline. The viewer is scanning a feed. The hook devices above apply: cold-open on the payoff, front-loaded numbers, on-screen text, "POV:".
+
+**Spoken / to camera** — a founder video, a voiceover, YouTube, a webinar, a podcast. A person is saying these words out loud to someone who already chose to press play. The rules change:
+
+- Write how people actually speak. Contractions, natural cadence, one idea per breath. Read every line out loud, and if you would never say it that way, rewrite it.
+- Give context before the payoff. On camera a viewer needs to know what they are looking at before a number or a reveal can land. A context-free cold open that works as a silent text card ("$2,716.") falls flat when a founder says it with no setup.
+- The opener is the one sentence a stranger understands with zero prior context, not the most dramatic line. Earn the reveal, then deliver it.
+- Drop the overlay devices from the words a person says. On-screen callouts, "POV:", and front-loaded shock lines are written-hook tricks; spoken aloud they sound off.
+
+The test for anything that will be spoken: say it out loud. If it does not sound like something a real person would say, it is wrong, no matter how well it grades as text.
+
 ## Grading a hook
 
 A hook fails if any of the first four is missing.
@@ -67,6 +82,7 @@ A hook fails if any of the first four is missing.
 - **Seed** — is there a promise right after the hook, or does it stop the scroll and then waste the attention?
 - **Funnel fit** — does it open or close the tension in the direction the funnel stage needs?
 - **Honesty** — does the hook write a cheque the content actually cashes? A curiosity or mystery hook that never pays off trains the audience to distrust you. Overpromising wins one view and loses the next, which is the difference between attention and a following.
+- **Register** — will these words be read or spoken? Spoken copy has to sound like a person talking and give context before the payoff. A scroll-hook in a founder's mouth reads as an ad; say it out loud to check.
 
 The most common failure is a hook that is grammatically a hook ("Nobody tells you...") but fires no driver, names no specific person, and triggers no emotion. Catch it every time. The shape is not the hook; the trigger is.
 
